@@ -55,6 +55,9 @@ and my own brief lecture on Canvas.
 * Anonymous. “The Popul Vuh.” In Joseph and Henderson, eds., The Mexico Reader, pp. 79-85.
 
 
+**DUE: WEEKLY REPORT**
+
+
 ## Premodern Societies II (Sep 1)
 
 The collapse of Classical Maya society did not mean the disappearance of
@@ -77,6 +80,8 @@ practices.
 
 * Mary Strong, Art, Nature, and Religion in the Central Andes (Austin: Univ. of Texas Press, 2012): pp. 17-58.
 
+**DUE: WEEKLY REPORT**
+
 ## Premodern Societies III  (Sep 8)
 
 With a foundation in the pre-Conquest Americas, this week we turn to the Iberian Peninsula, the close-in Atlantic islands, and to Africa to look at the roots of conquest in the so-called “Old World.” Consider the culture of conquest cultivated by Isabella and Ferdinand in the 1490s, and also what lessons Iberians learned of conquest and expansion in their control of Atlantic Islands and the trade in enslaved captives with West Africa.
@@ -95,6 +100,8 @@ With a foundation in the pre-Conquest Americas, this week we turn to the Iberian
 
 * John K. Thornton, “The African Background,” A Cultural History of the Atlantic World, 1250–1820 (Cambridge Univ. Press, 2012), pp. 60-100.
 
+
+**DUE: WEEKLY REPORT**
 
 ## The Early Conquest (Sep 15) 
 
@@ -121,8 +128,6 @@ colonialism?
 Here are three critiques from early on, and Laws that the Crown
 promulgated in response.
 
-
-
 * Bartolomé de Las Casas, Brief Account of the Devastation of the Indies, excerpt.
 
 * Antonio Montesinos, “Advent Sermon”
@@ -130,6 +135,8 @@ promulgated in response.
 * “The Relación of Fray Ramón Pane (c. 1494-1496)”
 
 * “The Laws of Burgos. 1512-1513”
+
+**DUE: WEEKLY REPORT**
 
 ## On the Mainland (Sep 22)
 
@@ -141,27 +148,138 @@ century, did native allies with the Spanish imagine themselves as
 collaborators in European domination? If not, what did they imagine they
 were doing?
 
+**Live:** Conquest Myths and Realities
+
+* Matthew Restall, et. al., Mesoamerican Voices: Native-Language Writings from Colonial Mexico, Oaxaca, Yucatan, and Guatemala (Cambridge: 2005): Chapter 3.
+
+* “The Spaniards’ Entry into Tenochtitlan,” The Mexico Reader, 97-104.
+
+* For a fantastic graphic novel approach to telling this story, check out the
+  five episodes so far written and drawn at Aztec Empire. This graphic novel
+  version of the Conquest works hard to be faithful to the visual world and
+  recent historical scholarship on Cortes’s march from the sea.
+
+**Asynch:**
+
+* Patricia Seed, “Failing to Marvel: Atahualpa’s Encounter with the Word,”
+  Latin American Research Review 26.1 (1991): 7-32.
+
+**DUE: WEEKLY REPORT**
+
+## Conquest On-Going (Sep 29)
+
+Did the conquest end? Does it continue today in some form?
+
+**Live:** Oñate's Foot
+
+* no new readings.
+
+**Due Friday by midnight: Take-Home Exam**
+
+## The Order of Things (Oct 6) 
+
+How do you build an empire on the collapsing foundation of native society? How did early modern imperialists confront the technological and practical challenges of ruling the span of the globe?
+
+**Live:** Building on collapsing ground
+
+* Suzanne Alchon, “Colonialism, Disease, and the Spanish Conquest of the Carribbean, Mesoamerica, and the Central Andes,” in A Pest in the Land: New World Epidemics in a Global Perspective (Univ. of NM Press, 2003): 60-82.
+
+* J.L Phelan, “Authority and Flexibility in the Spanish Imperial Bureaucracy” Administrative Science Quarterly, Vol. 5, No. 1, Special Issue on Comparative Public Administration. (Jun., 1960), pp. 47-65.
+
+**Asynch:**
+
+* Martin Nesvig, Promiscuous Power, “Burning Down the House, in Which the spiritual Conquistadors Go to War with Each Other.”
+
+**DUE: WEEKLY REPORT**
+
+## Captivity and Enslavements (Oct 13)  
+
+From its inception, the Spanish and Portuguese colonial projects depended on the labor of enslaved Africans. As Kris Lane argues, slave owners even pinned their hopes for the afterlife on enslaved labor after death. Pay close attention this week to strategies that enslaved and free blacks pursued in colonial Latin America.
+
+**Live:** A Society Built on Slavery
+
+* Kris Lane, “Captivity and Redemption: Aspects of Slave Life in early Colonial Quito and Popoyan,” The Americas 57.2 (2000), 225-246.
+
+**Aynch:** Jane Landers, “Felipe Edimboro Sues for Manumission, Don Francisco Xavier Sánchez contests (Florida, 1794),” in Colonial Lives, pp. 249-268.
+
+**DUE: WEEKLY REPORT**
+
+## Native Labor and Accumulation (Oct 20)
+
+Enslavement was not the only form of coerced labor exploited by Iberian empires. This week we consider the effects of encomienda and tribute on the integrity of native communities under Iberian rule. What significance is there in native communities pursuing their own legal strategies before the crown? How did tribute taxation and labor function? Were the New Laws successful?
+
+**Live:** The Many Kinds of Economic Coercion
+
+* Ward Stavig, The World of Túpac Amaru, Ch. 6.
+
+**Asynch:**
+
+Woodrow Borah, “The Indians of Tejupan Want to Raise Silk on Their Own,” Colonial Lives, 6-10.
+
+**DUE: WEEKLY REPORT**
+
+## Love, Hate, and Social Reproduction (Oct 27)
+
+This week, we are focusing on family, sexuality, and social order. The customs and laws of Iberia and the Indies were deeply influential in the ordering (and disordering) of colonial society. The Conquest, and its aftermath, included exploitative and coercive relationships, and even regular marriages had their fair share of conflict between spouses. This week, we consider these things by looking at unnatural sexuality and witchcraft, as a way of also understanding what colonial society understood to be natural.
+
+**Live:** Sex in the Archive
+
+* Zeb Tortorici, “Impulses in the Archive: Misinscription and Voyeurism,” Chapter 2 in Sins Against Nature (Duke University Press, 2018).
 
 
-## (Sep 29)
+**Asych:**
 
-## (Oct 6)
+* Ruth Behar, “Sexual Witchcraft, Colonialism, and Women’s Powers,” in Sexuality and Marriage in Colonial Latin America. Lavrin, ed. Lincoln: Univ. of Nebraska Press, 1992.
 
-## (Oct 13)  
 
-## (Oct 20)
+**DUE: WEEKLY REPORT**
 
-## (Oct 27)
+## Disruption and Reform (Nov 3)
 
-## (Nov 3)
+This week, we look at the early transformations of the colonial relationship after the Spanish War for succession. Consider the reforms posited by José Galvez, and reactions to them that fall short of open rebellion.
 
-## (Nov 10)
+**Live:** 
 
-## (Nov 17)
+* “José de Gálvez’s Decrees for the King’s Subjects in Mexico (1769, 1778)” in Mills, et. al., Colonial Latin America, pp. 270-273.
 
-## (Nov 24)
+* Pamela Voekel, “Peeing on the Palace: Bodily Resistance to Bourbon Reforms in Mexico City,” Journal of Historical Sociology, Vol. 5 No. 2 (June 1992): 183-208.
 
-**Final Due:**
+
+**DUE: FILM REVIEW**
+
+## Rebellion and Reaction (Nov 10)
+
+By the 1780s, part of the Spanish Empire erupted into open rebellion
+against the economic reforms pushed afer the Seven Years War. Why did these
+rebellions not lead to Independence? What explains the complicated
+political identities articulated by their protagonists? What constituted
+legitimate authority by century's end?
+
+
+* Elizabeth Penry, “Letters of Insurrection: The Rebellion of the Communities (Charcas, 1781)” in Colonial Lives: 201-215.
+
+* David T. Garrett, “His Majesty’s Most Loyal Vassals”: The Indian Nobility and Túpac Amaru,” Hispanic American Historical Review, 84:4 (2004): 575-617. (Available through the library website.)
+
+
+**DUE: WEEKLY REPORT**
+
+## Independence (Nov 17)
+
+The crises of the Bourbon reforms never produced independence movements. That would take Napoleon invading Spain. We consider this week the crisis of 1808 caused by Napoleon, and how that set up the process of independence, which wouldn’t culminate for more than a decade!
+
+* Jaime E. Rodríguez O., “New Spain and the 1808 Crisis of Spanish Monarchy,”
+Mexican Studies/Estudios Mexicanos, 24.2 (Summer 2008): 245-287.
+
+
+**DUE: WEEKLY REPORT**
+
+
+
+## New World Orders (Nov 24)
+
+Let’s Wrap.It.Up. The new republics will be free of Iberian rule, and you’re about to be free of this semester….
+
+**Final Due:** TBD
 
 
 
