@@ -155,7 +155,8 @@ were doing?
 * “The Spaniards’ Entry into Tenochtitlan,” The Mexico Reader, 97-104.
 
 * For a fantastic graphic novel approach to telling this story, check out the
-  five episodes so far written and drawn at Aztec Empire. This graphic novel
+  five episodes so [far written and drawn at Aztec
+  Empire](https://www.bigredhair.com/books/aztec-empire/episode-one/). This graphic novel
   version of the Conquest works hard to be faithful to the visual world and
   recent historical scholarship on Cortes’s march from the sea.
 
