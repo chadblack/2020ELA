@@ -59,10 +59,12 @@ civilization, and second of which treats the vanity, ambition, and
 capriciousness of late colonial rule. Screen dates will be announced in class. 
 
 Instructions for the *La Otra Conquista* version of this assignment are
-[here]().
+[here](https://chadblack.net/2020ELA/otra/).
 
-For instructions for the Zama version of the assignment, click [here]().
+For instructions for the Zama version of the assignment, click
+[here](https://chadblack.net/2020ELA/zama/).
 
-And, if you choose *También la lluvia*, it's [here]().
+And, if you choose *También la lluvia*, it's
+[here](https://chadblack.net/2020ELA/lluvia/).
 
 
