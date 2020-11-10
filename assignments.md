@@ -56,7 +56,8 @@ la lluvia*](). Students
 must write a 3-5 page analysis on one of these films, the
 first which treats the question of the spiritual conquest of Nahuatl
 civilization, and second of which treats the vanity, ambition, and
-capriciousness of late colonial rule. Screen dates will be announced in class. 
+capriciousness of late colonial rule.The third is a meta story about the
+colonial period and Bolivia in the early 2000s.
 
 Instructions for the *La Otra Conquista* version of this assignment are
 [here](https://chadblack.net/2020ELA/otra/).

@@ -30,7 +30,7 @@ portrayed in the Columbus film. So, you get to play around with these
 temporalities, with the notion that Andean indigenous people can simply stand
 in for Taínos, and with the attitudes of the crew.
 
-Your assignment is to write a critical review of La Otra Conquista that evaluates the historical merits of the film. In order to do this, you will need to draw on the assigned readings from class. You must use the two readings assigned for the week of the film, but may also use other readings from class. (No outside readings, though. Let’s keep it focused on the resources we’ve used in class.) Each paper should include a short overview of the plot, the important characters, and a discussion of the historical themes that they embody. Then, with reference to the readings, evaluate the historic merits of the film. Analyze the readings in the context of the film, and the film in the context of the readings.
+Your assignment is to write a critical review of La Otra Conquista that evaluates the historical merits of the film. In order to do this, you will need to draw on the assigned readings from class. You must use the two readings assigned from class. (No outside readings, though. Let’s keep it focused on the resources we’ve used in class.) Each paper should include a short overview of the plot, the important characters, and a discussion of the historical themes that they embody. Then, with reference to the readings, evaluate the historic merits of the film. Analyze the readings in the context of the film, and the film in the context of the readings.
 
 It is up to you which historical themes you decide to emphasize from the theme, but you must be able to connect them to specifics in either the primary or secondary readings at your disposal.
 
