@@ -280,7 +280,7 @@ Mexican Studies/Estudios Mexicanos, 24.2 (Summer 2008): 245-287.
 
 Let’s Wrap.It.Up. The new republics will be free of Iberian rule, and you’re about to be free of this semester….
 
-**Final Due:** TBD
+**Final Due:** December 3rd at 6:00pm.
 
 
 
