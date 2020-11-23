@@ -22,7 +22,7 @@ Full cast.
 
 Your assignment is to write a critical review of Zama that evaluates the
 historical merits of the film. In order to do this, you will need to draw on
-the assigned readings and lectures from class. You must use any readings
+two assigned readings and lectures from class. You must use any readings
 assigned from class, though the strongest readings will be from the second half
 of the semester.. (No outside readings, though. Let’s keep it focused on the
 resources we’ve used in class.) Each paper should include a short overview of
